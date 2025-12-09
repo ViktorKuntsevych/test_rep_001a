@@ -1,5 +1,5 @@
-# Ver 002a
-# git checkout -b Brainch002a
+# Ver 002b
+# git checkout -b Brainch003a
 
 import tkinter as tk
 from tkinter import messagebox
